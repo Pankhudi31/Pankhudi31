@@ -1,4 +1,11 @@
-### Hi there 👋
+Hi there 👋
+🔭 I’m currently working on my skills.
+🌱 I’m currently learning Data Science.
+👯 I’m looking to collaborate on projects.
+📫 How to reach me: You can reach me through my E-mail.
+
+
+
 
 <!--
 **Pankhudi31/Pankhudi31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
