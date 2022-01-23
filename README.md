@@ -1,4 +1,4 @@
-Hi there 👋__
+Hi there 👋 <br />
 -🔭 I’m currently working on my skills.__
 -🌱 I’m currently learning Data Science.__
 -👯 I’m looking to collaborate on projects.__
