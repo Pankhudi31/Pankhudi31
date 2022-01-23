@@ -1,8 +1,8 @@
-Hi there 👋
--🔭 I’m currently working on my skills.
--🌱 I’m currently learning Data Science.
--👯 I’m looking to collaborate on projects.
--📫 How to reach me: You can reach me through my E-mail.
+Hi there 👋__
+-🔭 I’m currently working on my skills.__
+-🌱 I’m currently learning Data Science.__
+-👯 I’m looking to collaborate on projects.__
+-📫 How to reach me: You can reach me through my E-mail.__
 
 
 
