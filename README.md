@@ -1,6 +1,8 @@
 Hi there 👋 <br />
+I'm Pankhudi Jha, a Computer Science Engineering UnderGrad focused in Big Data Analytics. <br />
 -🔭 I’m currently working on my skills.<br />
 -🌱 I’m currently learning Data Science.<br />
+-⚡Languages: C++, Python<br />
 -👯 I’m looking to collaborate on projects.<br />
 -📫 How to reach me: You can reach me through my E-mail : pankhudijha321@gmail.com.<br />
 
