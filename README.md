@@ -9,6 +9,7 @@ I'm Pankhudi Jha, a Computer Science Engineering UnderGrad focused in Big Data A
 ## ✉️ Find me on:
 
 
+Profile Views:
 
 ![Visitor Count](https://profile-counter.glitch.me/Pankhudi31/count.svg)
 
